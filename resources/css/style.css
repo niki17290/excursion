@@ -1,3 +1,41 @@
+* { 
+	margin: 0 auto;
+	background-color: black;
+}
+section {
+	margin-left: 300px;
+}
 h1 {
-	color: red;
-	}
+	font-family: Verdana;
+	font-weight: Normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+a {
+	color: Aquamarine;
+	font-size: 16px;
+	position: absolute;
+	text-align: center;
+}
+#new {
+	background-color: black;
+	text-align: center;
+}
+h2 {
+	font-family: verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+p {
+	font-family: verdana;
+	font-size: 21px;
+	color: Gray;
+}
+footer {
+	text-align: right;
+	color: Gray;
+}
+#phone {
+	background-color: black;
+}
